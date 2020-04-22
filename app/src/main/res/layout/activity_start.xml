@@ -6,7 +6,7 @@
     android:gravity="center"
     android:layout_height="match_parent"
     tools:context=".StartActivity"
-    android:background="#DAAEAB">
+    android:background="#FFFFFF">
 
     <Button
         android:id="@+id/login"
